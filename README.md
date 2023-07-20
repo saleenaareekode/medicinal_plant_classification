@@ -1,2 +1,5 @@
 # medicinal_plant_classification
 MedChecker- An Ensembled Deep-learning based Classification Model
+MedChecker is a free and open-source software for the identification of a plant and displaying the descriptions about that plant. This is an ensemble deep-learning model for the classification of medicinal plants available in Kerala.  The final prediction of this model will be from two deep-learning based classification models. We have included only 14 classes of plants in this study. Plants having resemblance in their leaves have been categorized and trained using multiple models and they got ensembled. We aim to develop a free and open-source mobile application for presenting this work to the end-users.  The front-end has been developed in Flutter and the classification models are built using the pre-trained model ResNet. The first model includes 10 classes and the second model is trained with varieties of Tulsi.
+![image](https://github.com/saleenaareekode/medicinal_plant_classification/assets/68556480/3df6a97b-f359-4e52-bc61-cb128d6eaa1e)
+
